@@ -1,0 +1,8 @@
+**/out
+**/datastore
+**/data 
+# **/raw_data
+**/eval_data
+**/keys
+**/wiki
+**/scripts
